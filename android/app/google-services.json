@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "358253272842",
+    "project_id": "videocallapplearning",
+    "storage_bucket": "videocallapplearning.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:358253272842:android:f371df29702d2a0d1324f3",
+        "android_client_info": {
+          "package_name": "com.example.video_call_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4cpK_BwKXLVPimm8yFW0R1kQUfvqRnoM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
